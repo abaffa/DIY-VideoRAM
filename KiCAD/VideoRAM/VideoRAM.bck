@@ -1,0 +1,33 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 74HC161
+D Synchronous 4-bit programmable binary Counter
+K TTL CNT CNT4
+F http://www.ti.com/lit/gpn/sn74LS161
+$ENDCMP
+#
+$CMP 74HC173
+D 4-bit D-type Register, 3 state out
+K TTL REG REG4 3State DFF
+F http://www.ti.com/lit/gpn/sn74LS173
+$ENDCMP
+#
+$CMP 74LS160
+D Synchronous 4-bit programmable decimal Counter
+K TTL CNT CNT4
+F http://www.ti.com/lit/gpn/sn74LS160
+$ENDCMP
+#
+$CMP 74LS162
+D Synchronous 4-bit programmable decimal Counter
+K TTL CNT CNT4
+F http://www.ti.com/lit/gpn/sn74LS162
+$ENDCMP
+#
+$CMP 74LS163
+D Synchronous 4-bit programmable binary Counter
+K TTL CNT CNT4
+F http://www.ti.com/lit/gpn/sn74LS163
+$ENDCMP
+#
+#End Doc Library
